@@ -1,2 +1,21 @@
-# Macroeconomic-ISLM-calculator
-Python-based tool to model IS-LM curves
+# IS-LM Model Calculator
+
+A Python implementation of the Hicks-Hansen IS-LM macroeconomic model.
+
+## Features
+- **IS Curve Calculation**: Derives the Investment-Saving curve.
+- **LM Curve Calculation**: Derives the Liquidity preference-Money supply curve.
+- **Equilibrium Analysis**: Finds the equilibrium interest rate and national income.
+- **Visualization**: Plots IS and LM curves with the equilibrium point using Matplotlib.
+
+## Usage
+Run the script to calculate and visualize the model:
+
+```bash
+python "#IS-LM calculator.py"
+```
+
+## Requirements
+- Python 3.x
+- NumPy
+- Matplotlib
