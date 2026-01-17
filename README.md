@@ -8,13 +8,6 @@ A Python implementation of the Hicks-Hansen IS-LM macroeconomic model.
 - **Equilibrium Analysis**: Finds the equilibrium interest rate and national income.
 - **Visualization**: Plots IS and LM curves with the equilibrium point using Matplotlib.
 
-## Usage
-Run the script to calculate and visualize the model:
-
-```bash
-python "#IS-LM calculator.py"
-```
-
 ## Requirements
 - Python 3.x
 - NumPy
